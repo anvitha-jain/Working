@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750246538274",
+    "firebase_url": "https://arstoreshop-f67f8.firebaseio.com",
+    "project_id": "arstoreshop-f67f8",
+    "storage_bucket": "arstoreshop-f67f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750246538274:android:92cde6dcd4b5f402",
+        "android_client_info": {
+          "package_name": "com.example.ar_store_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750246538274-torlfh1avqrd2lobjokhm1fidsbojcsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ar_store_shop",
+            "certificate_hash": "c0ce35fb14883fd718c41a9ef28a4f639bfe35d3"
+          }
+        },
+        {
+          "client_id": "750246538274-ha20dkhhq93lr0m9orc2g9btqb9v4jkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0FbBjauyVvLe-JwNIzbsfk4E7HZRhaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750246538274-ha20dkhhq93lr0m9orc2g9btqb9v4jkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
